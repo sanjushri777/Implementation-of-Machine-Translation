@@ -23,7 +23,7 @@ To create a simple language translation application that translates English sent
 
 
 ## PROGRAM:
-```
+```python
 !pip install transformers torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
